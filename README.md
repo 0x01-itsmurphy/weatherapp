@@ -15,7 +15,7 @@ A simple weather app built using Flutter that fetches weather data for cities an
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/0x01-itsmurphy/weatherapp.git
 ```
 
 ### 2. Install Dependencies
@@ -23,7 +23,7 @@ git clone https://github.com/your-username/weather-app.git
 Navigate to the project directory and install the required dependencies:
 
 ```bash
-cd weather-app
+cd weatherapp
 flutter pub get
 ```
 
